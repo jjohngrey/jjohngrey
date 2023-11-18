@@ -1,4 +1,4 @@
-### Hi there 👋 My name is not John
+### Hi there 👋 My name is not Johnny
 
 <!--
 **jjohngrey/jjohngrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
